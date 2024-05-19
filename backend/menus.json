@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Les Menus Classiques",
+      "dishes": [
+        { "name": "L'Original", "price": 9.50 },
+        { "name": "Chevre miel", "price": 12.00 },
+        { "name": "Le Big", "price": 11.00 },
+        { "name": "Le Bacon", "price": 11.50 },
+        { "name": "Le Chicken", "price": 10.50 },
+        { "name": "Le Spicy", "price": 11.00 },
+        { "name": "2 Smash Tacos", "price": 9.50 },
+        { "name": "3 Smash Tacos", "price": 11.50 },
+        { "name": "Frites Cheddar Bacon", "price": 3.00 }
+      ]
+    }
+  ]
+  
